@@ -1,7 +1,7 @@
 import json
 from web3 import Web3
 
-infura_url = "https://mainnet.infura.io/v3/77fe3cd25c3f4ae1ad1a4072d7a3a98a"
+infura_url = "https://mainnet.infura.io/v3/'API-KEY'"
 
 web3 = Web3(Web3.HTTPProvider(infura_url))
 
